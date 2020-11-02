@@ -1,1 +1,1 @@
-Did Project Euler with cpp.
+Did Project Euler with cpp and python.
