@@ -2,23 +2,23 @@ t=int(input())
 a=[]
 for a0 in range(t):
     n=int(input())
-    pr=[]
-    nw=[]
+    b=[]
+    c=[]
     for num in range(1, n + 1):   
        if num > 1:
            for i in range(2, num):
                if (num % i) == 0:
                    break
            else:               
-               pr.append(num)
-    for q1 in range(len(pr)):
+               b.append(num)
+    for j in range(len(b)):
         tmp=1
-        while((pr[q1]**tmp)<=n):
+        while((b[j]**tmp)<=n):
             tmp=tmp+1
-        nw.append(pr[q1]**(tmp-1))
+        c.append(b[j]**(tmp-1))
     prod=1
-    for q1 in nw:
-        prod=prod*q1
+    for j in c:
+        prod=prod*j
     a.append(prod)
 for k in a:
     print(k)
