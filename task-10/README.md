@@ -1,1 +1,2 @@
-**CS50**
+# CS50
+The lectures are so fun.
