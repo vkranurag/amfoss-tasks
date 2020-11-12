@@ -5,7 +5,7 @@ Hi! I am Anurag Vinodkumar, from S1 CSE-A batch of 2020-2024
 
 
 | Task | Description | Status |
-| --- | --- |
+| --- | --- | --- |
 | <a href="https://github.com/Ragify/amfoss-tasks/tree/main/task-00">Task-00</a> | Install Ubuntu | Completed |
 | <a href="https://github.com/Ragify/amfoss-tasks/tree/main/task-01">Task-01</a> | Star all the amFOSS repositoriess | Completed |
 | <a href="https://github.com/Ragify/amfoss-tasks/tree/main/task-02">Task-02</a> | Register your nick in IRC Freenode | Completed | 
