@@ -6,8 +6,8 @@ double fx(double x)
     return (x*x+b*x+c)/sin(x);
 }
 double tsearch(double l, double r) {
-    double eps = 1e-7;
-    while (r - l > eps) {
+    double e = 1e-7;
+    while (r - l > e) {
         double m1 = l + (r - l) / 3;
         double m2 = r - (r - l) / 3;
         double f1 = fx(m1);
