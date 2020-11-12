@@ -1,2 +1,2 @@
 # CS50
-The lectures are so fun.
+The lectures are so fun. :)
