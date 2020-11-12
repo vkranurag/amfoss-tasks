@@ -6,7 +6,7 @@
 using namespace std;
 
 
-int pali(int x){
+int pal(int x){
     int n=x;
     int p = 1;
     while(n!=0){n/=10;p*=10;} 
@@ -21,13 +21,14 @@ int pali(int x){
     return true;
 }
 int main() {
-    int T; cin >> T;
-    while(T--){
+    int t; 
+    cin >> t;
+    while(t--){
         int n;cin>>n;
         int m =0;
         for(int i=1;i<1000;i++){
             for(int j=1;j<1000;j++){
-                if(i*j < n && pali(i*j)){
+                if(i*j < n && pal(i*j)){
                     m = max(m, i*j);
                 }
             }
