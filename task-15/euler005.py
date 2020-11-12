@@ -12,13 +12,13 @@ for a0 in range(t):
            else:               
                b.append(num)
     for j in range(len(b)):
-        tmp=1
-        while((b[j]**tmp)<=n):
-            tmp=tmp+1
-        c.append(b[j]**(tmp-1))
-    prod=1
+        temp=1
+        while((b[j]**temp)<=n):
+            temp=temp+1
+        c.append(b[j]**(temp-1))
+    pdt=1
     for j in c:
-        prod=prod*j
-    a.append(prod)
+        pdt=pdt*j
+    a.append(pdt)
 for k in a:
     print(k)
