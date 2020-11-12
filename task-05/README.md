@@ -1,3 +1,3 @@
 # Rustic Scraper
 
-Was not able to do.
+Sorry, I was not able to do.
