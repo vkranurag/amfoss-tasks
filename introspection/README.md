@@ -10,4 +10,4 @@ I am going to focus on my first semester and try to get good CGPA. Also I would 
 With the best of my knowledge and abilities, I will contribute anything necessary for the club. Also I would love to work in teams, as I said earlier that I am a team player.
 
 ### 4.Do you have any feedback for the selection process?
-The registration was really easy and the senior members are so friendly and are very helpful. Everything else so far is great!!:)
+The registration was really easy and the senior members are so friendly and are very helpful. Everything so far is great!!:)
