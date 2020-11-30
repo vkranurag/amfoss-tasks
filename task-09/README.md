@@ -1,3 +1,3 @@
 # Spammer_Spaghetti
 
-Sorry, I was not able to do this.
+Actually I wrote a scrpit with the help of Google and YouTube but got an error whenever I tried it in the console. 
