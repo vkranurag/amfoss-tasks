@@ -1,0 +1,11 @@
+[package]
+name = "rustic_scraper"
+version = "0.1.0"
+authors = ["Ragify"]
+edition = "2018"
+
+[dependencies]
+reqwest = "0.10"
+scraper = "*"
+tokio = { version = "0.2", features = ["full"] }
+csv = "1.1"
