@@ -9,7 +9,7 @@ Hi! I am Anurag Vinodkumar, from S1 CSE-A batch of 2020-2024
 | <a href="https://github.com/Ragify/amfoss-tasks/tree/main/task-00">Task-00</a> | Install Ubuntu | Completed |
 | <a href="https://github.com/Ragify/amfoss-tasks/tree/main/task-01">Task-01</a> | Star all the amFOSS repositoriess | Completed |
 | <a href="https://github.com/Ragify/amfoss-tasks/tree/main/task-02">Task-02</a> | Register your nick in IRC Freenode | Completed | 
-| <a href="https://github.com/Ragify/amfoss-tasks/tree/main/task-03">Task-03</a> | Programming | Attempted Good strings|
+| <a href="https://github.com/Ragify/amfoss-tasks/tree/main/task-03">Task-03</a> | Programming | Completed |
 | <a href="https://github.com/Ragify/amfoss-tasks/tree/main/task-04">Task-04</a> | Debugging Derbies | Completed |
 | <a href="https://github.com/Ragify/amfoss-tasks/tree/main/task-05">Task-05</a> | Rustic Scraper | Completed |
 | <a href="https://github.com/Ragify/amfoss-tasks/tree/main/task-06">Task-06</a> | Geddit | Unattempted |
