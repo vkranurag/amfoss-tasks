@@ -1,4 +1,15 @@
 # Rustic Scraper
 
-Sorry, I was not able to do this.
-I found this task the most difficult among all. I just googled on how to scrap and even watched some videos on YouTube. I understood what we are supposed to do, but found it difficult. I tried some codes from some random websites to see how scrapping works and even then I could not understand.
+
+ | Country | Total Cases | Total Deaths | Total Recovered
+---|---|---|---|--- 
+1 | USA | 20,024,026 | 347,598 | 11,869,216
+2 | India | 10,264,426 | 148,719 | 9,856,158
+3 | Brazil | 7,577,890 | 192,981 | 6,647,538
+4 | Russia | 3,131,550 | 56,426 | 2,525,418
+5 | France | 2,574,041 | 64,078 | 191,806
+6 | UK | 2,432,888 | 72,548 | N/A
+7 | Turkey | 2,194,272 | 20,642 | 2,078,629
+8 | Italy | 2,083,689 | 73,604 | 1,445,690
+9 | Spain | 1,921,115 | 50,689  | N/A
+10 | Germany | 1,695,476 | 32,550 | 1,302,600
