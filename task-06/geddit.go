@@ -1,4 +1,3 @@
-//@kingjuno
 package main
 import (
 	"context"
