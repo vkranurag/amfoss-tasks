@@ -1,5 +1,8 @@
 # Rustic Scraper
 
+I watched some videos on YouTubce and read some articles on stack overflow.
+
+The data obtained:
 
 Country | Total Cases | Total Deaths | Total Recovered
 ---|---|---|--- 
